@@ -1,7 +1,7 @@
 {
-    "name": "BOT-MD",
+    "name": "BOT-PETZ",
     "version": "3.5.1",
-    "description": "Simple Bot WhatsApp with Baileys Multi Device",
+    "description": "Simple Bot WhatsApp with Petz Multi Device",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -28,9 +28,9 @@
         "stikerin",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/sadteams/bot-md",
+    "homepage": "https://github.com/Peterelzevir/Peter-Botz/",
     "author": {
-        "name": "Kangsad01"
+        "name": "Peterbotz"
     },
     "repository": {
         "type": "git",
